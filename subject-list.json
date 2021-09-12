@@ -1,0 +1,15 @@
+[
+    {
+        "title":"国語",
+        "source":"./source/2",
+        "mode":"json"
+    },{
+        "title":"英語",
+        "source":"./source/3",
+        "mode":"json"
+    },{
+        "title":"html",
+        "source":"./source/test",
+        "mode":"html"
+    }
+]
